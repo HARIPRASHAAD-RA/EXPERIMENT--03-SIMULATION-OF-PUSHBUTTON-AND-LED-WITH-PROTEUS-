@@ -1,7 +1,7 @@
 # EXPERIMENT--02-SIMULATION-OF-PUSHBUTTON-AND-LED INTERFACE WITH ARM CONTROLLER AND PROTEUS 
-## HARIPRASHAAD RA
-## 212223040060
-## 06-09-2024
+## NAME: HARIPRASHAAD RA
+## REGISTERED NO: 212223040060
+## DATE OF EXPERIMENT: 06-09-2024
 ## Aim: 
 To Interface a Digital output (LED) and Digital input (Pushbutton) to ARm development board , and simulate it in Proteus 
 
